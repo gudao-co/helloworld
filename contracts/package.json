@@ -1,0 +1,21 @@
+{
+  "name": "gudao-co-helloworld",
+  "private": true,
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gudao-co/helloworld.git"
+  },
+  "author": "0x50fc@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gudao-co/helloworld/issues"
+  },
+  "homepage": "https://github.com/gudao-co/helloworld#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.7.3"
+  }
+}
