@@ -1,0 +1,30 @@
+.container {
+  height: 50vh;
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: flex-start;
+  align-items: center;
+  margin-top: 50px;
+}
+.btn {
+  width: fit-content;
+  background: skyblue;
+  border: 1px solid;
+  color: black;
+  font-weight: 600;
+  padding: 20px 30px;
+  border-radius: 8px;
+  line-height: 1;
+}
+.btn:hover {
+  background: red;
+  color: white;
+}
+.account-desc {
+  width: 100vw;
+  padding-left: 100px;
+  font-size: 24px;
+}
+.account-text {
+  color: blue;
+}
